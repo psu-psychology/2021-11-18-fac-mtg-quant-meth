@@ -40,7 +40,7 @@ knitr::opts_chunk$set(echo = FALSE)
     - PSY 509 Psychometrics (J. LeBreton)
         - 10-12 students/term
     - PSY 511 SCAN Methods (F. Hillary)
-    - PSY 535 Research Methods in I/O (H. Min)
+    - PSY 535 Research Methods in I/O (j. LeBreton -> H. Min)
         
 ## Where do we want to go?
 
