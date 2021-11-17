@@ -1,0 +1,65 @@
+---
+title: "The future of quant methods"
+author: "Rick Gilmore, James LeBreton, Jonathan Cook, Lizz Karuza, Haylee Min"
+css: css/styles.css
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    widescreen: true
+    incremental: false
+    transition: default
+    logo: img/psu-logo.jpeg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Agenda
+
+- Where are we?
+- Where do we want to go?
+- How do we get there?
+
+## Where are we?
+
+- PSY 507-508 sequence (required for all $\Psi$ grads)
+    - Fall/Spring in Year 1
+    - 2x 2 hr lectures + 1 hr lab/week
+    - 20-27 students/term
+    - 1-2 20 hr TAs
+    - J. Cook has taught both (except for 3 semesters) since Fall 2013
+    
+---
+
+- Other courses
+    - PSY 531 Multilevel Modeling (J. LeBreton)
+        - 15-25 students/term
+        - 1-2 TAs
+    - PSY 509 Psychometrics (J. LeBreton)
+        - 10-12 students/term
+    - PSY 511 SCAN Methods (F. Hillary)
+    - PSY 535 Research Methods in I/O (H. Min)
+        
+## Where do we want to go?
+
+- [2017 survey](https://psu-psychology.github.io/quant-meth-course-survey-2017/) of grad students
+    - Courses taken (& where)
+    - Courses desired (& when/how)
+- Department quantitative methodology [web page](https://psych.la.psu.edu/research/quantitative-methods)
+
+## How do we get there?
+
+- Your thoughts?
+
+---
+
+- Committee suggestions
+    - Priority in new tenure-stream faculty hiring
+    - Train existing tenure-stream faculty
+    - Hire/train teaching faculty
+    - Hire postdocs with teaching responsibilities
+    - Partner with other units
+    - Offer short-term workshops from 3rd party providers
+    
